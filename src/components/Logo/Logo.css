@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+.logo{
+    font-family: PT Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 81px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 40px 0 10px;
+}

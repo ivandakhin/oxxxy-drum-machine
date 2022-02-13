@@ -1,0 +1,17 @@
+.text-box{
+    background: #000000;
+    border-top: 4px solid #FFFFFF;
+    border-bottom: 4px solid #FFFFFF;
+    box-sizing: border-box;
+    margin: 30px 0 0;
+}
+
+.text-line{
+    font-family: PT Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}

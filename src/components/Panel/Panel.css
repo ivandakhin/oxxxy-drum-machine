@@ -1,0 +1,26 @@
+.panel{
+    width: 90%;
+    border: 3px solid rgb(255, 255, 255);
+    height: max-content;
+    margin: 0 auto;
+    background: black;
+    padding: 25px 0;
+}
+
+.buttons-line{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* .panel::before{
+    content: '';
+    border: 3px solid #ffffff;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    height: inherit;
+    position: relative;
+    left: 8px;
+    bottom: -8px;
+} */

@@ -1,0 +1,300 @@
+{
+    "buttons-line-1": [
+        {
+            "keyCode": "49",
+            "keyTrigger": "1",
+            "keyMemoji": "💩", 
+            "keyName" : "гавно",
+
+            "id": "gavno"
+        },
+        {
+            "keyCode": "50",
+            "keyTrigger": "2",
+            "keyMemoji": "🍄", 
+            "keyName" : "залупа",
+            "id": "zalupa"
+        },
+       {
+            "keyCode": "51",
+            "keyTrigger": "3",
+            "keyMemoji": "🍆", 
+            "keyName" : "пенис",
+            "id": "penis"
+        },
+        {
+            "keyCode": "52",
+            "keyTrigger": "4",
+            "keyMemoji": "🚀", 
+            "keyName" : "хер", 
+            "id": "her"
+        },
+        {
+            "keyCode": "53",
+            "keyTrigger": "5",
+            "keyMemoji": "🙎🏻‍♀️", 
+            "keyName" : "давалка",
+            "id": "davalka"
+        },
+       {
+            "keyCode": "54",
+            "keyTrigger": "6",
+            "keyMemoji": "🥒", 
+            "keyName" : "хуй", 
+            "id": "hui"
+        },
+        {
+            "keyCode": "55",
+            "keyTrigger": "7",
+            "keyMemoji": "🙋‍♀️", 
+            "keyName" : "блядина", 
+            "id": "bladina"
+        },
+        {
+            "keyCode": "56",
+            "keyTrigger": "8",
+            "keyMemoji": "🤯", 
+            "keyName" : "головка", 
+            "id": "golovka"
+        },
+        {
+            "keyCode": "57",
+            "keyTrigger": "9",
+            "keyMemoji": "🤦‍♀️", 
+            "keyName" : "шлюха", 
+            "id": "shluha"
+        },
+        {
+            "keyCode": "48",
+            "keyTrigger": "0",
+            "keyMemoji": "🍑", 
+            "keyName" : "жопа", 
+            "id": "jopa"
+        },
+        {
+            "keyCode": "49",
+            "keyTrigger": "-",
+            "keyMemoji": "🍌", 
+            "keyName" : "член", 
+            "id": "chlen"
+        },
+        {
+            "keyCode": "49",
+            "keyTrigger": "=",
+            "keyMemoji": "🤡", 
+            "keyName" : "еблан", 
+            "id": "eblan"
+        }
+    ],
+    "buttons-line-2": [
+        {
+            "keyCode": "81",
+            "keyTrigger": "Q",
+            "keyMemoji": "🐓", 
+            "keyName" : "петух", 
+            "id": "petuh"
+        },
+        {
+            "keyCode": "87",
+            "keyTrigger": "W",
+            "keyMemoji": "🤢", 
+            "keyName" : "мудила",
+            "id": "mudilo"
+        },
+        {
+            "keyCode": "69",
+            "keyTrigger": "E",
+            "keyMemoji": "✊", 
+            "keyName" : "рукоблуд", 
+            "id": "rukoblud"
+        },
+        {
+            "keyCode": "82",
+            "keyTrigger": "R",
+            "keyMemoji": "💦", 
+            "keyName" : "ссанина", 
+            "id": "ssanina"
+        },
+        {
+            "keyCode": "84",
+            "keyTrigger": "T",
+            "keyMemoji": "*️⃣", 
+            "keyName" : "очко", 
+            "id": "ochko"
+        },
+        {
+            "keyCode": "89",
+            "keyTrigger": "Y",
+            "keyMemoji": "🤷‍♂️", 
+            "keyName" : "блядун", 
+            "id": "blyadun"
+        },
+        {
+            "keyCode": "85",
+            "keyTrigger": "U",
+            "keyMemoji": "🥬", 
+            "keyName" : "вагина", 
+            "id": "vagina"
+        },
+        {
+            "keyCode": "73",
+            "keyTrigger": "I",
+            "keyMemoji": "🐕", 
+            "keyName" : "сука", 
+            "id": "syka"
+        },
+        {
+            "keyCode": "79",
+            "keyTrigger": "O",
+            "keyMemoji": "👮‍♂️", 
+            "keyName" : "ебланище", 
+            "id": "eblanishe"
+        },
+        {
+            "keyCode": "80",
+            "keyTrigger": "P",
+            "keyMemoji": "🕳", 
+            "keyName" : "влагалище", 
+            "id": "vlagalishe"
+        }
+    ],
+    "buttons-line-3": [
+        {
+            "keyCode": "65",
+            "keyTrigger": "A",
+            "keyMemoji": "🌬", 
+            "keyName" : "пердун", 
+            "id": "perdun"
+        },
+        {
+            "keyCode": "83",
+            "keyTrigger": "S",
+            "keyMemoji": "🤏", 
+            "keyName" : "дрочило", 
+            "id": "drochilo"
+        },
+        {
+            "keyCode": "68",
+            "keyTrigger": "D",
+            "keyMemoji": "👨‍❤️‍💋‍👨", 
+            "keyName" : "пидор", 
+            "id": "pidor"
+        },
+        {
+            "keyCode": "70",
+            "keyTrigger": "F",
+            "keyMemoji": "🌮", 
+            "keyName" : "пизда", 
+            "id": "pizda"
+        },
+        {
+            "keyCode": "71",
+            "keyTrigger": "G",
+            "keyMemoji": "🤹‍♂️", 
+            "keyName" : "туз", 
+            "id": "tuz"
+        },
+        {
+            "keyCode": "72",
+            "keyTrigger": "H",
+            "keyMemoji": "🍶", 
+            "keyName" : "малафья", 
+            "id": "malafia"
+        },
+        {
+            "keyCode": "74",
+            "keyTrigger": "J",
+            "keyMemoji": "👨‍👨‍👧", 
+            "keyName" : "гомик", 
+            "id": "gomik"
+        },
+        {
+            "keyCode": "75",
+            "keyTrigger": "K",
+            "keyMemoji": "👨‍⚖️", 
+            "keyName" : "мидила", 
+            "id": "mudilo2"
+        },
+        {
+            "keyCode": "76",
+            "keyTrigger": "L",
+            "keyMemoji": "👒", 
+            "keyName" : "пилотка", 
+            "id": "pilotka"
+        }
+    ],
+    "buttons-line-4": [
+        {
+            "keyCode": "90",
+            "keyTrigger": "Z",
+            "keyMemoji": "🤷‍♀️", 
+            "keyName" : "манда", 
+            "id": "manda"
+        },
+        {
+            "keyCode": "88",
+            "keyTrigger": "X",
+            "keyMemoji": "🍩", 
+            "keyName" : "анус", 
+            "id": "anus"
+        },
+        {
+            "keyCode": "67",
+            "keyTrigger": "C",
+            "keyMemoji": "🥩", 
+            "keyName" : "вагина", 
+            "id": "vagina2"
+        },
+        {
+            "keyCode": "86",
+            "keyTrigger": "V",
+            "keyMemoji": "👫", 
+            "keyName" : "путана", 
+            "id": "putana"
+        },
+        {
+            "keyCode": "66",
+            "keyTrigger": "B",
+            "keyMemoji": "🚶‍♂️", 
+            "keyName" : "педрила", 
+            "id": "pedrilo"
+        },
+        {
+            "keyCode": "78",
+            "keyTrigger": "N",
+            "keyMemoji": "🧎‍♀️", 
+            "keyName" : "шалава", 
+            "id": "shalava"
+        },
+        {
+            "keyCode": "77",
+            "keyTrigger": "M",
+            "keyMemoji": "🏃‍♂️", 
+            "keyName" : "хуила", 
+            "id": "huilo"
+        },
+        {
+            "keyCode": "188",
+            "keyTrigger": ",",
+            "keyMemoji": "🥜", 
+            "keyName" : "машонка", 
+            "id": "mashonka"
+        },
+        {
+            "keyCode": "190",
+            "keyTrigger": ".",
+            "keyMemoji": "🌭", 
+            "keyName" : "елда", 
+            "id": "elda"
+        }
+    ],
+    "buttons-line-5": [
+         {
+            "keyCode": "32",
+            "keyTrigger": " ",
+            "keyMemoji": "🥊", 
+            "keyName" : "РАУНД", 
+            "id": "round"
+        }
+    ]
+}
