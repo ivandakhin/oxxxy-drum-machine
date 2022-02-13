@@ -1,4 +1,4 @@
-A simple react application that looks like a drum machine with only one nuance, for the library of sounds I used a cut of oxymoron expressions on the legendary rap battle with Johnny Boy
+A simple react application that looks like a drum machine with only one nuance, for the library of sounds I used a cut of oxxxymiron expressions on the legendary rap battle with Johnny Boy
 
 Each keystroke, which is marked with an emoji and clearly signed, is tied to a statement
 
