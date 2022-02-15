@@ -1,5 +1,4 @@
 import Button from '../Button/Button';
-import LargeButton from '../LargeButton/LargeButton'
 
 function ButtonsLine(props){
     return(
